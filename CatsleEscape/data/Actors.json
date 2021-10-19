@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"여성_1-전투","characterIndex":0,"characterName":"여성_1-보행","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"여성_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"소녀","nickname":"","note":"","profile":"지하실에서 기억을 잃고 깨어난 소녀"},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"붕대남_보행","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"붕대남_얼굴","traits":[],"initialLevel":1,"maxLevel":99,"name":"붕대남","nickname":"","note":"","profile":"오예붕대"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"남성_1보행","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"남성_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"아저씨","nickname":"","note":"","profile":"아재요 아재"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

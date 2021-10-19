@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"시작방_인트로1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":2,"expanded":true,"name":"시작방_붕대남 퇴장","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":644},
+{"id":3,"expanded":true,"name":"복도_감옥방 앞에서","order":4,"parentId":1,"scrollX":1462.6666666666667,"scrollY":654.6666666666666},
+{"id":4,"expanded":true,"name":"시작방_인트로2","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":624},
+{"id":5,"expanded":true,"name":"지하실_시작방","order":8,"parentId":0,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
+{"id":6,"expanded":true,"name":"지하실_복도","order":9,"parentId":5,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
+{"id":7,"expanded":false,"name":"대칭방","order":10,"parentId":5,"scrollX":819,"scrollY":453},
+{"id":8,"expanded":false,"name":"공사중","order":12,"parentId":0,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
+{"id":9,"expanded":true,"name":"복도_조력자 합류","order":5,"parentId":1,"scrollX":1297.3333333333333,"scrollY":593.3333333333334},
+{"id":10,"expanded":true,"name":"체스방_대화","order":6,"parentId":1,"scrollX":1092,"scrollY":604},
+{"id":11,"expanded":true,"name":"체스방","order":11,"parentId":5,"scrollX":1092,"scrollY":604},
+{"id":12,"expanded":false,"name":"체스방_버튼 발견","order":7,"parentId":1,"scrollX":1092,"scrollY":604},
+{"id":13,"expanded":false,"name":"1층 복도","order":13,"parentId":0,"scrollX":2705,"scrollY":2468},
+{"id":14,"expanded":false,"name":"1층 복도 02","order":14,"parentId":0,"scrollX":2150,"scrollY":2348}
+]
